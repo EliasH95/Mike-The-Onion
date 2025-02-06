@@ -22,7 +22,7 @@ The main idea behind this project is that I force myself to draw each and every 
 ## How I work
 
 **The Drawing Part:** \
-I want to learn drawing but I have no interest in drawing my graphics on paper so I use my ***5th Gen. Ipad Pro 12.9*** with an ***Apple Pencil 2nd Gen.*** and ***Goodnotes 5*** to draw. ****(see examples below)****
+I want to how to draw but I have no interest in drawing my graphics on paper so I use my ***5th Gen. Ipad Pro 12.9*** with an ***Apple Pencil 2nd Gen.*** and ***Goodnotes 5*** to draw. ****(see examples below)****
 
 **The Editing Part**: \
 After I finish drawing an abomination of an Asset, I screenshot the drawing and send it over to my ***MacBook Air M1 2020*** (which I use for all the work for this project, including Unity). I then open up the screenshot in ***Adobe Photoshop*** and use the eraser tool to remove all the excess from the "paper", but still leave a rather thick outline to get the handdrawn style of the game. ****(see examples below)****
