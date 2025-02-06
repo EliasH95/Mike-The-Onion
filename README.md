@@ -31,9 +31,11 @@ After I finish drawing an abomination of an Asset, I screenshot the drawing and 
 Due to me being a 4th year IT student, I was already able to gather plenty of coding experience, so the coding part (although I'm rather unexperienced with C#), should be the least of my worries.
 
 ## Screenshots
-
+**My Coding Setup**
 ![My Coding Setup](https://github.com/user-attachments/assets/6a9a5e27-2066-4546-b0ae-39f3206c62f6)
-![Drawing work on IPad]((https://github.com/user-attachments/assets/2a39bebf-d506-4841-ac6e-702c0b36a707))
+**Drawing work on IPad**
+![Drawing work on IPad](https://github.com/user-attachments/assets/2a39bebf-d506-4841-ac6e-702c0b36a707)
+**Editing in Adobe Photosop**
 ![Editing in Photoshop](https://github.com/user-attachments/assets/d8e6e374-3e55-4a26-a274-dfc4bf38c201)
 
 
